@@ -80,7 +80,7 @@ describe('angularjs homepage todo list', function () {
         //  // element(by.ngClick('headerDrilldownVm.signIn()')).click(); //clicking on login
         //  // element(by.xpath(@label="Email Address")).
         //
-        //  browser.findElement(by.xpath("//*[@label='Email Address']")).sendKeys('offsite.mail1@gmail.com'+protractor.Key.TAB);
+        //  browser.findElement(by.xpath("//*[@label='Email Address']")).sendKeys('xyz@gmail.com'+protractor.Key.TAB);
         //  //browser.wait(3000);
         //  browser.findElement(by.xpath("//*[@label='Password']")).sendKeys('test123!@#'+protractor.Key.ENTER);
         //  browser.wait( browser.findElement(by.xpath("//*[@class='btn btn-disabled sign-button login-button']")));
