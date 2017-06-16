@@ -1,0 +1,80 @@
+{
+  "hash" : "f0f9583e3b2974a632a09536fa6cd0de93829600",
+  "data" : [ {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 24,
+      "message" : "Failed: No element found using locator: By(xpath, //*[@class='sign-button login-button'])",
+      "status" : "FAILED"
+    }, {
+      "count" : 7,
+      "message" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "status" : "FAILED"
+    }, {
+      "count" : 4,
+      "message" : "Failed: Wait condition must be a promise-like object, function, or a Condition object",
+      "status" : "FAILED"
+    }, {
+      "count" : 3,
+      "message" : "Failed: unknown error: angular is not defined\n  (Session info: chrome=57.0.2987.133)\n  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86)",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Expected 'Test Freelancers' to equal 'Freelancers'.",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Expected 'Test Freelancers' to be 'Freelancers'.",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Failed: browser.findElement(...).click(...).sendKeys is not a function",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Failed: Error while waiting for Protractor to sync with the page: \"window.angular is undefined.  This could be either because this is a non-angular page or because your test involves client-side navigation, which can interfere with Protractor's bootstrapping.  See http://git.io/v4gXM for details\"",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Failed: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=58.0.3029.81)\n  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86)",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "Failed: invalid selector: Unable to locate an element with the xpath expression .//*[@class='ellipsis m-0-top-bottom' because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string './/*[@class='ellipsis m-0-top-bottom'' is not a valid XPath expression.\n  (Session info: chrome=58.0.3029.81)\n  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86)",
+      "status" : "FAILED"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "angularjs homepage todo list",
+      "statistic" : {
+        "total" : 64,
+        "passed" : 12,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 52,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Without feature",
+      "statistic" : {
+        "total" : 64,
+        "passed" : 12,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 52,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

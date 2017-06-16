@@ -1,0 +1,38 @@
+{
+  "uid" : "4161f213426f2158",
+  "name" : "test script",
+  "title" : "test script",
+  "time" : {
+    "start" : 1492752522084,
+    "stop" : 1492752526368,
+    "duration" : 4284
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "ce1b5b7edb93bc1f",
+    "name" : "angularjs homepage todo list",
+    "title" : "angularjs homepage todo list"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage todo list"
+  } ],
+  "parameters" : [ ]
+}

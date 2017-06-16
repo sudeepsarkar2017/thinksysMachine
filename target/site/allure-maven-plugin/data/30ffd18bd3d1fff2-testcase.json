@@ -1,0 +1,38 @@
+{
+  "uid" : "30ffd18bd3d1fff2",
+  "name" : "Login",
+  "title" : "Login",
+  "time" : {
+    "start" : 1493040331214,
+    "stop" : 1493040356585,
+    "duration" : 25371
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : {
+    "value" : "",
+    "type" : "TEXT"
+  },
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "ce1b5b7edb93bc1f",
+    "name" : "angularjs homepage todo list",
+    "title" : "angularjs homepage todo list"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "angularjs homepage todo list"
+  }, {
+    "name" : "suite-title",
+    "value" : "angularjs homepage todo list"
+  } ],
+  "parameters" : [ ]
+}
