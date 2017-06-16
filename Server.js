@@ -16,7 +16,9 @@ sql.connect(dbConfig, function (err) {
     var request = new sql.Request();
 
     var fs = require('fs');
-    var data = fs.readFileSync('./query.sql');
+    var data = fs.readFileSync('./slqQuery/query.sql');
+
+    // console.log(data.toString());
     // query to the database and get the records
     request.query(data.toString(), function (err, recordset) {
 
